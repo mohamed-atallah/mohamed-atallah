@@ -66,7 +66,8 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 - **Email:** muhamed.ali.atallah@gmail.com
 - **LinkedIn:** linkedin.com/in/muhamed-atallah
 - **GitHub:** https://github.com/mohamed-atallah
-
+<p align="center"> 
+  Visitor count<br>
 <!--
 **mohamed-atallah/mohamed-atallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
