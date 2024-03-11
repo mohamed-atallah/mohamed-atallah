@@ -1,5 +1,4 @@
-### Hi there 👋
-# Mohamed Ali Atallah
+# Mohamed Ali Atallah 👋
 
 ## About Me
 
@@ -8,24 +7,24 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 ## Skills
 
 - **Testing Techniques:** Manual Testing, Automated Testing, Regression Testing, Functional Testing, User Acceptance Testing (UAT), Exploratory Testing
-- **Testing Tools:** Selenium WebDriver, JUnit, TestNG, JIRA, HP Quality Center (ALM), Postman, Jenkins, Git, JMeter
-- **Programming Languages:** Java, Python
+- **Testing Tools:** Selenium WebDriver, JUnit, TestNG, JIRA, Postman, Jenkins, Git, JMeter
+- **Programming Languages:** Java
 - **Test Management:** Test Planning, Test Case Design, Test Execution, Defect Management
 - **Agile Methodologies:** Scrum, Kanban
 - **Communication:** Clear and concise communication, Strong collaboration skills
 
 ## Experience
 
-### [Company Name]
-- **Position:** Software Tester
-- **Duration:** [Month, Year - Month, Year]
+### Ibnsina Pharma
+- **Position:** Senior Software Quality Controller
+- **Duration:** Jan 2022  - 12,2023]
 - **Responsibilities:**
   - Conducted manual and automated tests for web and mobile applications.
   - Developed and executed test cases, test plans, and test scripts.
   - Identified, reported, and tracked defects using JIRA.
   - Collaborated with development teams to resolve issues and ensure product quality.
 
-### [Company Name]
+### Ibnsina Pharma
 - **Position:** QA Engineer
 - **Duration:** [Month, Year - Month, Year]
 - **Responsibilities:**
@@ -36,26 +35,25 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 
 ## Education
 
-### [University Name]
-- **Degree:** Bachelor of Science in Computer Science
-- **Duration:** [Month, Year - Month, Year]
+###  HIMS Institute
+- **Degree:** Bachelor`s degree | Business information system (BIS) / Very Good
 
 ## Projects
 
-### [Project Name]
+### Ibnsina Pharma App
 - **Description:** Led testing efforts for a web-based e-commerce platform.
 - **Technologies Used:** Selenium WebDriver, Java, JIRA
-- **GitHub Repository:** [Link to GitHub repository]
 
-### [Project Name]
+### Ibnsina Pharma Field Force App
 - **Description:** Automated regression testing for a mobile banking application.
 - **Technologies Used:** Appium, JAVA , JIRA
-- **GitHub Repository:** [Link to GitHub repository]
 
 ## Certifications
 
 - ISTQB Certified Tester - Foundation Level
-- Agile Tester (ISTQB)
+- ISTQB® Certified Tester Mobile Application Testing (CT-MAT)
+- MCSA and MCSE 2016 Certified
+- API Test Automation with postman
 
 ## Interests
 
@@ -66,7 +64,7 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 ## Contact
 
 - **Email:** muhamed.ali.atallah@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** linkedin.com/in/muhamed-atallah
 - **GitHub:** https://github.com/mohamed-atallah
 
 <!--
