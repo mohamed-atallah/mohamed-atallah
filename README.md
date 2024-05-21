@@ -1,5 +1,9 @@
 # Mohamed Ali Atallah 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ05PnMnvGsyY/giphy.gif" width="200" />
+</p>
+
 ## About Me
 
 Experienced Software Tester with a passion for ensuring quality and reliability in software products. Skilled in manual and automated testing methodologies, test planning, and defect tracking. I have a strong attention to detail and the ability to collaborate effectively with cross-functional teams to deliver high-quality software.
@@ -26,7 +30,7 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 
 ### Ibnsina Pharma
 - **Position:** QA Engineer
-- **Duration:** [Month, Year - Month, Year]
+- **Duration:** Jan 2021 - Dec 2022
 - **Responsibilities:**
   - Implemented automated test scripts using Selenium WebDriver and Java.
   - Participated in Agile ceremonies and provided input on user stories.
