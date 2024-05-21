@@ -2,7 +2,7 @@
 
 ## About Me
 
-Experienced Software Tester with a passion for ensuring quality and reliability in software products. Skilled in manual and automated testing methodologies, test planning, and defect tracking. Strong attention to detail and ability to collaborate effectively with cross-functional teams to deliver high-quality software.
+Experienced Software Tester with a passion for ensuring quality and reliability in software products. Skilled in manual and automated testing methodologies, test planning, and defect tracking. I have a strong attention to detail and the ability to collaborate effectively with cross-functional teams to deliver high-quality software.
 
 ## Skills
 
@@ -17,7 +17,7 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 
 ### Ibnsina Pharma
 - **Position:** Senior Software Quality Controller
-- **Duration:** Jan 2022  - 12,2023]
+- **Duration:** Jan 2022 - Dec 2023
 - **Responsibilities:**
   - Conducted manual and automated tests for web and mobile applications.
   - Developed and executed test cases, test plans, and test scripts.
@@ -35,8 +35,8 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 
 ## Education
 
-###  HIMS Institute
-- **Degree:** Bachelor`s degree | Business information system (BIS) / Very Good
+### HIMS Institute
+- **Degree:** Bachelor's Degree in Business Information Systems (BIS) / Very Good
 
 ## Projects
 
@@ -46,14 +46,14 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 
 ### Ibnsina Pharma Field Force App
 - **Description:** Automated regression testing for a mobile banking application.
-- **Technologies Used:** Appium, JAVA , JIRA
+- **Technologies Used:** Appium, Java, JIRA
 
 ## Certifications
 
 - ISTQB Certified Tester - Foundation Level
 - ISTQB® Certified Tester Mobile Application Testing (CT-MAT)
 - MCSA and MCSE 2016 Certified
-- API Test Automation with postman
+- API Test Automation with Postman
 
 ## Interests
 
@@ -63,10 +63,21 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 
 ## Contact
 
-- **Email:** muhamed.ali.atallah@gmail.com
-- **LinkedIn:** linkedin.com/in/muhamed-atallah
-- **GitHub:** https://github.com/mohamed-atallah
-<p align="center"> 
+- **Email:** [muhamed.ali.atallah@gmail.com](mailto:muhamed.ali.atallah@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muhamed-atallah](https://linkedin.com/in/muhamed-atallah)
+- **GitHub:** [github.com/mohamed-atallah](https://github.com/mohamed-atallah)
+
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mohamed-atallah/count.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  💬 Feel free to reach out for collaborations or just a friendly chat!
 </p>
