@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/rhZr8u3cvxe0ksf1ej/200w.gif?cid=6c09b952amijocbgwkdj1or8y4enewmm1idug14qm07e2wgy&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" />
 </p>
+
 ## About Me
 
 Experienced Software Tester with a passion for ensuring quality and reliability in software products. Skilled in manual and automated testing methodologies, test planning, and defect tracking. I have a strong attention to detail and the ability to collaborate effectively with cross-functional teams to deliver high-quality software.
