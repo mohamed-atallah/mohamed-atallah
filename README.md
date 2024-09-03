@@ -45,11 +45,16 @@ Experienced Software Tester with a passion for ensuring quality and reliability 
 ## Projects
 
 ### Ibnsina Pharma App
-- **Description:** Led testing efforts for a web-based e-commerce platform.
+- **Description:** This product is part of a program created to serve Ibnsina pharma customers and deliver all its services through
+digital platforms. Through this Application; customers can create sales orders, monitor his transactions, and viewthe most recent governmental publications. You can reach these features from the web portal or the mobile
+application available in its Android version on Google Play and its IOS version on the App Store.
 - **Technologies Used:** Selenium WebDriver, Java, JIRA
 
 ### Ibnsina Pharma Field Force App
-- **Description:** Automated regression testing for a mobile banking application.
+- **Description:**This product makes suppliers and distributors of suppliers companies able to create instant promotions and orders
+for customers and then deliver the orders through ibnsina pharma distribution fleet.
+Application available from the web portal or the mobile application available in its Android version on Google Play
+and its iOS version on the App Store.
 - **Technologies Used:** Appium, Java, JIRA
 
 ## Certifications
