@@ -1,4 +1,4 @@
-# Mohamed Ali Atallah 👋
+# Muhamed Atallah 👋
 
 <p align="center">
   <img src="https://media3.giphy.com/media/rhZr8u3cvxe0ksf1ej/200w.gif?cid=6c09b952amijocbgwkdj1or8y4enewmm1idug14qm07e2wgy&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" />
